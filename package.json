@@ -39,7 +39,7 @@
     "log4js": "^4.0.2",
     "strong-supervisor": "^6.2.0",
     "ibm-cloud-env": "^0",
-    "mongoose": "^4.9.8"
+    "mongoose": "^5.7.8"
   },
   "devDependencies": {
     "nodemon": "^1.12.1",
